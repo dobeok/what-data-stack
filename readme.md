@@ -1,23 +1,3 @@
-To run the web app using **old data**
-
-```bash
-streamlit run app.py
-```
-
-**To update data**, you will need to get an api key from reddit, save them in the .env file
-```bash
-CLIENT_ID={your_client_id}
-SECRET={your_client_secret}
-USER_AGENT={your_user_agent}
-```
-
-and then
-```bash
-python fetch_data.py
-python clean_data.py
-streamlit run app.py
-```
-
 ###  Summary
 I came across [this thread](https://www.reddit.com/r/dataengineering/comments/wcw0nt/what_is_in_your_data_stack_thread/) whereby people were sharing their data stack (ETL, Data Warehouse, EDA, etc) and it piqued my curiousity.
 
@@ -41,3 +21,23 @@ _Visualizing input and output_
 
 
 
+### Use
+To run the web app using **old data**
+
+```bash
+streamlit run app.py
+```
+
+**To update data**, you will need to get an api key from reddit, save them in the .env file
+```bash
+CLIENT_ID={your_client_id}
+SECRET={your_client_secret}
+USER_AGENT={your_user_agent}
+```
+
+and then
+```bash
+python fetch_data.py
+python clean_data.py
+streamlit run app.py
+```
