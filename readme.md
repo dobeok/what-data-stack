@@ -1,10 +1,10 @@
-To run the web app using old data
+To run the web app using **old data**
 
 ```bash
 streamlit run app.py
 ```
 
-To update data, you will need to get an api key from reddit, save them in the .env files
+**To update data**, you will need to get an api key from reddit, save them in the .env file
 ```bash
 CLIENT_ID={your_client_id}
 SECRET={your_client_secret}
