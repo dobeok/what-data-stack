@@ -1,0 +1,68 @@
+created_utc,author,score,ETL,Data Warehouse,Data Transformation,BI,Exploratory Data Analysis,Company Size,Company Industry,Company HQ
+1659294345.0,AutoModerator,1,,,,,,,,
+1659306558.0,syphilicious,35,SSIS & BIML,SQL server on prem,SQL stored procedures,Power BI,Excel,150+,Energy/ natural resources,"Texas, USA"
+1659299153.0,rudboi12,37,Azure Data factory,Azure data lake gen 2,Spark with Databricks (pyspark),PowerBI,Databricks notebooks,Don’t know probably at 100k+,Consumer Goods,HQ in US but  working for UK region only.
+1659300309.0,hesperoyucca,11,,,,,,,,
+1659293878.0,Pleasant_Type_4547,28,"Fivetran, Stitch",Snowflake,dbt,"Looker, Metabase",Google Colab,50,E-commerce,"London, UK"
+1659307709.0,reborndu,8,"Azure Data Factory (Dynamic pipelines,so I just really run parametrized executions)",Azure Data Lake/Snowflake,"Databricks ((Mostly SQL & Scala, few Pyspark)",PowerBI,Databricks/Snowflake,~50k,Paints & chemicals,"HQ in the US but working from Mexico (So pay is 10 times less than a similar job from the US, so...)"
+1659314548.0,lljdu77_-bvd,7,Python and Cron,Postgres AWS RDS,Python and SQL,Dashboards written in Python,SQL and Python,,Data,Brazil
+1659303104.0,lahma_mama,7,Stitch/Meltano,Big Query,dbt or big query,Tableau,Tableau,30-50 (start-up),E-commerce,USA
+1659306773.0,booyahtech,6,Azure Data Factory,Azure Synapse Dedicated SQL Pool / Snowflake,Databricks (Python / Spark if bigger datasets),Power BI,Databricks,200K +,FMCG,
+1659329149.0,mhoss2008,6,,,/Snowflake,,,,,
+1659334412.0,askvinni,4,Dagster,Snowflake,dbt,"Metabase (not in place, no BI yet)",Colab/Notebooks,~50,BioTech,
+1659298286.0,Spartyon,13,airflow,bigquery,python/airflow,jupyter,metabase,8,analytics consulting,"detroit, mi USA"
+1659302199.0,fruity231,4,,,,,0,,,
+1659384961.0,aayushdotjain,3,,,,,,,,
+1659548051.0,Firefox1950,5,Azure Data Factory,Azure Data Lake,Databricks (pyspark),Power BI,Databricks,3000,Public Sector,"Ontario, Canada"
+1659298982.0,CingKan,6,Airbyte,Snowflake,Dbt,looker,Looker/ python,13,Insurance,"Reading , UK"
+1659311492.0,jmhcodes,3,Airflow,Redshift + HDFS,Spark + Kafka/Flink + Segment (phasing out),Looker (not a big fan),"Personally Jupiter, company wide excel + looker + whatever they choose",~140,Food eCommerce,US
+1659339155.0,Laxuz,3,"Spark, Sqoop, Airflow",Snowflake,DBT,"Qlik, Looker, Tableau","Dataiku, Databricks",5.000,Media and entertainment,"Brussels, Belgium"
+1659342394.0,code_pusher,3,"DBT, Spark(Databricks)","Snowflake, SSIS","DBT scripts, Spark Jobs, Stored procs",Tableau,"Databricks Notebooks, Snowflake AdHoc Queries",3000,"Media, Advertising",London
+1659313330.0,86BillionFireflies,7,0 people in research group,Data Warehouse,Data Transformation,BI,EDA,Company Size,Company Industry [optional],HQ
+1659300884.0,LewWariat,6,Airflow,BigQuery,We transform it in BigQuery 95% of the time (only some basics like schema testing in Airflow) - ELT approach,"Data Studio (I strongly dislike it btw, I don't know why folks don't want to use Looker)","00 company (I work at consulting), I shouldn't say more.",,,
+1659304115.0,heyitscactusjack,5,Dagster and SSIS (separately),SQL Server on prem,Dagster and SSIS,Excel with mdx cubes and also microstrategy but moving on to PowerBI,"Excel, PowerBI or Jupyter notebook","80-150k people globally, but probably 3000 locally",Insurance,Munich
+1659297126.0,Culpgrant21,3,Matillion ETL,Snowflake,Matillion ETL,Qliksense,Up to the analyst but probably just Snowflake Snowsight (wish more people used r or python). A lot of older people at my company use Access (it is a nightmare).,"5,000",Software,United States
+1659301534.0,cshoneybadger,5,,,,000,,,,
+1659310107.0,bsbpe,2,4hours,,,,,,,
+1659313797.0,Tetkobear,2,Azure Data Factory,Snowflake,SQL stored procs in Snowflake,Tableau and Power BI,"Databricks, Alteryx",5000+,,US
+1659317418.0,rwby00,2,AWS Glue / Airflow,Redshift,dbt,Power Bi / Metabase,Jupyter (deepnote) / Google Sheets,128,HR Saas,"Tokyo, Japan"
+1659318058.0,sl00k,2,) Fivetran / Reverse ETL - Census,) Redshift thinking of transitioning to Snowflake (any info on if this is worth?),) dbt,) Mode,) Mode / Jupyter,) 120,) Tech Series A,
+1659327748.0,fuchibolguy,2,Python,Snowflake,Dataiku (wtf?),power bi,power bi,,,
+1659331207.0,anurag_bhoga,2,"ADF, Databricks( Delta Lake)",Snowflake,Databricks,"QlikSense, Power BI","Internal systems , later with airport conveyor belts",**Company Size** (approx # employees) 100k,"**Company Industry**  Manufacturing, Airports",
+1659333186.0,gordonnewland,2,"Airflow, Fivetran",Snowflake,DBT,Qlik,"R, Qlik",500+,Tech,
+1659341698.0,badge,2,"Airflow (lots of custom industry stuff), Stitch (Saleforce, 3rd party db), Hevo (Stripe)",Snowflake,dbt,"Hex (replaced Mode, because we use it for (5) and Hex is more powerful)",Hex,15,Energy,Toronto/Remote
+1659356908.0,Carsina,2,500,,,,,,,
+1659380520.0,biellls,2,Typhoon Orchestrator + AWS Lambda,Postgres or DuckDB,Power BI,,,,,
+1659383871.0,Competitive-Emu-3916,2,Keboola,Snowflake,Keboola Transformations,Looker,Python notebooks,100,Tech,Prague
+1659442448.0,j__neo,2,"AWS DMS or AWS Kinesis for first-party data, Fivetran for third-party data",Snowflake,dbt,Mode or Looker,Mode and Jupyter Notebooks,"3000+ employees. 100+ data professionals (i.e. data analysts, data engineers, analytics engineers).",Software and Media,
+1659305372.0,Simonaque,5,Fivetran/ some (very little) Airbyte,Snowflake,dbt,Looker,"Not Sure, probably Jupyter",900+,MedTech,"Ottawa, Canada"
+1659305932.0,Affectionate_Answer9,2,Airflow,"Lakehouse architecture, data is primarily stored in s3 using parquet/hudi storage formats but we also have a few other data stores depending on the use case (snowflake, clickhouse and postgres)",Spark and Presto deployed on AWS EMR,Looker,Shared jupyter notebooks which can connect to our datalake/dwh and looker,about 500,tech,bay area
+1659315633.0,notazoroastrian,2,Spark (Databricks),Delta Lake/Hive (Databricks),Spark/Pandas (Databricks),Looker,IPynb (Databricks),"200 employees in USA, 5 person data analytics team",,
+1659325164.0,tortuga_jester,2,Fivetran,Snowflake,DBT,Tableau,Mode,400,SaaS / RestaurantTech,
+1659302411.0,ZoomCallOfCthulhu,1,Python/SQL,"Postgres, considering moving to Snowflake since our DWH is approaching a terabyte","Python/SQL, looking into DBT",Qlik Sense,-,1000,healthcare,Netherlands
+1659319535.0,Geraldks,1,Airflow,"Snowflake, Redshift (about to sunset)","Dbt, Python/ Spark","Periscope, Metabase (mainly for monitoring)",Jupyter,~1000 globally,Fintech,NY & KL
+1659327529.0,twadftw10,1,Airflow and Cdc with Debezium/kafka,Snowflake,Python/sql,Sisense,Jupyter Notebooks,700,IT/Security,"Denver, US"
+1659298794.0,Doyale_royale,1,Talend / Qlik cdc,Oracle,Talend,Micro strategy,,6000,,
+1659310338.0,mictom9,1,Python,Postgres,dbt,Power BI,Databricks if my local cluster is too slow,500,Gaming,
+1659317851.0,toadkiller,1,"Fivetran in, Hightouch out, in house packages for a few integrations, all orchestrated with airflow",BigQuery,dbt,Looker,Looker,<100,Fintech,
+1659322270.0,master_sq,1,Airflow,Data Vault😂 ( Data Warehouse <> Database),SQL,Tableau,"Tableau, SQL, Python",1000,Fintech,Global
+1659323592.0,justwantanaccount,1,", 2, and 3.","8K+ employee healthcare distribution company, headquartered in the US",,"/5 we recently started Tableau a few years ago, but they were using WebFocus before then. Most people use NQuire, which is a way to query the TIBCO tables through a GUI and download into Excel. My team is steeped deeply into Access, yuck.",,,,
+1659323877.0,saiyan6174,1,AWS Glue,AWS RedShift,Glue Spark + RedShift SQL,PowerBI,Notebooks + SQL,50+,Consulting firm,"client in Canada, company in India"
+1659323941.0,Balance-Time,1,,,,,,,,
+1659330980.0,jiejenn,1,Apache Airflow,BigQuery/SQL Server,dbt/Python (pandas),Python/Power BI,Python/SQL/Excel,,,
+1659333704.0,throw_mob,1,"Good at start , but as main T is SQL, it makes Matillion kinda obsolete. Custom Python program to fetch data from sources to object storage is quite easy to make and control",Snowflake,"i could consider using dbt, but SQL code in git and versioned schemas work nice",Little bit of disapointed on it. Not as easy and cost effective as it was sold. You need to be aake when crating models for normal users,plain old SQL,50,Fintech,
+1659337818.0,dataengg_geek,1,Hevo/Airbyte/Fivetran 2. Snowflake/Google BigQuery/Redshift  4. Power BI/Metabase 5. Excel 6.100+ 7. USA,,,,,,,
+1659338080.0,burpeesnrun,1,SSIS,SQL Server on prem,Stored procedures,"Sisense, but migrating to Tableau soon.",Excel,500+,Insurance,
+1659342252.0,lurkerbelow,1,"SAP Data Services, Apache Airflow",MSSQL on prem,"SAP Data Services, Apache Airflow","SAP Business Objects, PBI, in house developed chart service","Anything really, form Excel to Notebooks to PBI",4000+,Tertiary education,
+1659348818.0,olvsegun,1,Airflow/Python,BigQuery,SQL/Beam (Dataflow) / Pyspark,Tableau/ Data Studio,BQ / Python,about 2K I think,Adtech,The US but a global company. I work in the EU region
+1659349684.0,OnlyMeandMyThoughts,1,ETL - Dataddo,Data Warehouse - Google BQ,Data Transformation - dbt,BI - Tableau,Exploratory Data Analysis - Tableau,Company Size - around 200,E-commerce,
+1659356968.0,Anxious_Reporter,1,ETL: Airflow + Sqoop + pysftp,Data Warehouse: HDFS --> SQL Server,Data Transformation: python + pyspark,BI: Power BI,Exploratory Data Analysis: Jupyter Notebook + SQL Server + pyspark,,,
+1659362329.0,electric_creamsicle,1,Airflow deployed on GKE mostly running k8s pod operators or BigQuery jobs. Starting to shift a good portion of the extract and load layer to streaming and follow a ELT pattern.,BigQuery. Larger datasets are stored in Parquet on Cloud Storage.,SQL usually ran from Airflow,"A mix of folks doing their own BI with Jupyter Notebooks or whatever tooling they're comfortable with, some Tableau, a little bit of Google Data Studio",I think this is mostly just SQL for warehoused data. We also have a separate tracking events SaaS that is probably the first entrypoint into exploratory stuff.,~2000 total but probably only 500 or so working with data in some capacity on a regular basis,Travel,"Montreal, Canada but like 80% of the company is fully remote"
+1659365541.0,alpinewerks,1,Talend,MS SQL on-prem,Talend,Tableau,Tableau / R,300,Financial Services,USA
+1659371800.0,majc2,1,SSIS / Airflow,MSSQL,SSIS / Stored Procedures,PBI,R,400k+,Automotive,Germany
+1659386547.0,sergiojulio,1,0000,,,,,,,
+1659457194.0,Strange_Temporary_41,1,"Etl: airflow for orchestrate, airbyte for ingest",Dwh: bigquery,"Transform: airflow, dataflow","Bi: superset, google studio","Eda: colab , jupyter notebook",Size:200,Ecommerce,Vietnam
+1659532554.0,edthix,2,"Airflow (mostly from GCP CloudSQL Postgresql), Fivetran (social media connectors)",": we're entirely on gcp, so instead of s3 it's gcs when it comes to ephemeral storage needs for ETL etc.",Mixture of Airflow and BigQuery scheduler,"DataStudio (now) looking to move to Tableu/Looker, depends on $$","Jupyter notebooks via GCP Workbench or BigQuery sql console, depends on team",300,Education,
+1659722549.0,maximize_futility,1,from MySQL via Python scripts in AWS Lambda,BigQuery,dbt,Metabase (formerly - DataStudio + Mode),equals.app,\~15,Foodtech,"NYC, USA"
+1659375539.0,whb2030,-2,,,,,,,,
+1659366297.0,wearblaksoksiam2,0,Patterns,Postgres,Patterns,Patterns,Patterns,42,SaaS,"San Francisco, US"

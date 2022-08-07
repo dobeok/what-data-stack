@@ -1,0 +1,139 @@
+tech,ETL,Data Warehouse,Data Transformation,BI,Exploratory Data Analysis,one,total
+0,0.0,0.0,0.0,0.0,5.0,1,6.0
+000,0.0,0.0,0.0,4.0,0.0,1,5.0
+0000,1.0,0.0,0.0,0.0,0.0,1,2.0
+0 research group,8.0,0.0,0.0,0.0,0.0,1,9.0
+2,1.0,0.0,0.0,0.0,0.0,1,2.0
+3,1.0,0.0,0.0,0.0,0.0,1,2.0
+4hours,2.0,0.0,0.0,0.0,0.0,1,3.0
+500,2.0,0.0,0.0,0.0,0.0,1,3.0
+5 recently started tableau years ago,0.0,0.0,0.0,1.0,0.0,1,2.0
+8k,0.0,1.0,0.0,0.0,0.0,1,2.0
+Airbyte,8.0,0.0,0.0,0.0,0.0,1,9.0
+Airflow,35.0,0.0,13.0,0.0,0.0,1,49.0
+Airflow deployed gke mostly running k8s pod operators,1.0,0.0,0.0,0.0,0.0,1,2.0
+Also microstrategy moving powerbi,0.0,0.0,0.0,6.0,0.0,1,7.0
+Anything really,0.0,0.0,0.0,0.0,1.0,1,2.0
+Apache airflow,0.0,0.0,1.0,0.0,0.0,1,2.0
+Aws dms,2.0,0.0,0.0,0.0,0.0,1,3.0
+Aws glue,3.0,0.0,0.0,0.0,0.0,1,4.0
+Aws kinesis firstparty data,2.0,0.0,0.0,0.0,0.0,1,3.0
+Aws lambda,2.0,0.0,0.0,0.0,0.0,1,3.0
+Azure data factory,50.0,0.0,0.0,0.0,0.0,1,51.0
+Azure data gen 2,0.0,37.0,0.0,0.0,0.0,1,38.0
+Bi,0.0,0.0,0.0,10.0,0.0,1,11.0
+Bi bi,0.0,0.0,0.0,1.0,0.0,1,2.0
+Big query,0.0,5.0,0.0,0.0,0.0,1,6.0
+Bigquery jobs starting shift portion extract,1.0,0.0,0.0,0.0,0.0,1,2.0
+Bigquery larger datasets stored parquet storage,0.0,1.0,0.0,0.0,0.0,1,2.0
+Bigquery scheduler,0.0,0.0,2.0,0.0,0.0,1,3.0
+Bigquery sql console,0.0,0.0,0.0,0.0,2.0,1,3.0
+Biml,33.0,0.0,0.0,0.0,0.0,1,34.0
+Bi superset,0.0,0.0,0.0,1.0,0.0,1,2.0
+Bi  tableau,0.0,0.0,0.0,1.0,0.0,1,2.0
+Colab,0.0,0.0,0.0,0.0,5.0,1,6.0
+Considering moving snowflake dwh approaching terabyte,0.0,2.0,0.0,0.0,0.0,1,3.0
+Control,1.0,0.0,0.0,0.0,0.0,1,2.0
+Cost effective sold aake crating models normal users,0.0,0.0,0.0,1.0,0.0,1,2.0
+Cron,7.0,0.0,0.0,0.0,0.0,1,8.0
+Dagster,11.0,0.0,6.0,0.0,0.0,1,18.0
+Dashboards python,0.0,0.0,0.0,7.0,0.0,1,8.0
+Databricks,2.0,0.0,2.0,0.0,25.0,1,30.0
+Databricks notebooks,0.0,0.0,0.0,0.0,40.0,1,41.0
+Dataflow,0.0,0.0,1.0,0.0,0.0,1,2.0
+Data primarily stored s3 using parquet,0.0,2.0,0.0,0.0,0.0,1,3.0
+Data studio,0.0,0.0,0.0,1.0,0.0,1,2.0
+Data transformation,0.0,0.0,8.0,0.0,0.0,1,9.0
+Data warehouse,0.0,8.0,0.0,0.0,0.0,1,9.0
+Dbt,3.0,0.0,68.0,0.0,0.0,1,72.0
+Dbt scripts,0.0,0.0,3.0,0.0,0.0,1,4.0
+Delta lake,0.0,2.0,0.0,0.0,0.0,1,3.0
+Depends team,0.0,0.0,0.0,0.0,2.0,1,3.0
+Developed service,0.0,0.0,0.0,1.0,0.0,1,2.0
+Download into excel steeped deeply into access,0.0,0.0,0.0,1.0,0.0,1,2.0
+Duckdb,0.0,2.0,0.0,0.0,0.0,1,3.0
+Eda,0.0,0.0,0.0,0.0,8.0,1,9.0
+Employee healthcare distribution company,0.0,1.0,0.0,0.0,0.0,1,2.0
+Equalsapp,0.0,0.0,0.0,0.0,1.0,1,2.0
+Etl  dataddo,1.0,0.0,0.0,0.0,0.0,1,2.0
+Excel,0.0,0.0,0.0,0.0,44.0,1,45.0
+Excel mdx cubes,0.0,0.0,0.0,6.0,0.0,1,7.0
+Excel notebooks pbi,0.0,0.0,0.0,0.0,1.0,1,2.0
+Exploratory data analysis  tableau,0.0,0.0,0.0,0.0,1.0,1,2.0
+Fivetran,37.0,0.0,0.0,0.0,0.0,1,38.0
+Fivetran thirdparty data,2.0,0.0,0.0,0.0,0.0,1,3.0
+Follow elt pattern,1.0,0.0,0.0,0.0,0.0,1,2.0
+From mysql via python scripts aws lambda,1.0,0.0,0.0,0.0,0.0,1,2.0
+Glue spark,0.0,0.0,1.0,0.0,0.0,1,2.0
+Good,1.0,0.0,0.0,0.0,0.0,1,2.0
+Google bigquery,1.0,0.0,0.0,0.0,0.0,1,2.0
+Google colab,0.0,0.0,0.0,0.0,27.0,1,28.0
+Google sheets,0.0,0.0,0.0,0.0,2.0,1,3.0
+Google studio,0.0,0.0,0.0,1.0,0.0,1,2.0
+Hdfs,0.0,3.0,0.0,0.0,0.0,1,4.0
+Headquartered us,0.0,1.0,0.0,0.0,0.0,1,2.0
+Hex,0.0,0.0,0.0,0.0,2.0,1,3.0
+Hightouch out,1.0,0.0,0.0,0.0,0.0,1,2.0
+I mostly sql warehoused data tracking events saas probably entrypoint into exploratory stuff,0.0,0.0,0.0,0.0,1.0,1,2.0
+Instead s3 its gcs comes ephemeral storage needs etl etc,0.0,2.0,0.0,0.0,0.0,1,3.0
+Internal systems,0.0,0.0,0.0,0.0,2.0,1,3.0
+I shouldnt more,0.0,0.0,0.0,0.0,5.0,1,6.0
+I using dbt,0.0,0.0,1.0,0.0,0.0,1,2.0
+Jupyter,0.0,0.0,0.0,13.0,3.0,1,17.0
+Jupyter notebooks via gcp workbench,0.0,0.0,0.0,0.0,2.0,1,3.0
+Keboola,2.0,0.0,0.0,0.0,0.0,1,3.0
+Lakehouse architecture,0.0,2.0,0.0,0.0,0.0,1,3.0
+Later airport conveyor belts,0.0,0.0,0.0,0.0,2.0,1,3.0
+Little disapointed easy,0.0,0.0,0.0,1.0,0.0,1,2.0
+Load layer streaming,1.0,0.0,0.0,0.0,0.0,1,2.0
+Looker,0.0,0.0,0.0,54.0,13.0,1,68.0
+Makes matillion kinda obsolete custom python program fetch data sources storage easy make,1.0,0.0,0.0,0.0,0.0,1,2.0
+Matillion etl,4.0,0.0,4.0,0.0,0.0,1,9.0
+Meltano,5.0,0.0,0.0,0.0,0.0,1,6.0
+Metabase,0.0,0.0,0.0,29.0,13.0,1,43.0
+Micro strategy,0.0,0.0,0.0,1.0,0.0,1,2.0
+Mode,0.0,0.0,0.0,2.0,4.0,1,7.0
+Mssql,0.0,1.0,0.0,0.0,0.0,1,2.0
+Ms sql onprem,0.0,1.0,0.0,0.0,0.0,1,2.0
+Not sure,0.0,0.0,0.0,0.0,6.0,1,7.0
+Oracle,0.0,1.0,0.0,0.0,0.0,1,2.0
+Orchestrated airflow,1.0,0.0,0.0,0.0,0.0,1,2.0
+Packages integrations,1.0,0.0,0.0,0.0,0.0,1,2.0
+Periscope,0.0,0.0,0.0,1.0,0.0,1,2.0
+Plain sql,0.0,0.0,0.0,0.0,1.0,1,2.0
+Postgres aws rds,0.0,7.0,0.0,0.0,0.0,1,8.0
+Powerbi,0.0,0.0,2.0,99.0,2.0,2,105.0
+Pysftp,1.0,0.0,0.0,0.0,0.0,1,2.0
+Pyspark,0.0,0.0,2.0,0.0,1.0,1,4.0
+Python,13.0,0.0,24.0,1.0,17.0,1,56.0
+Qlik,0.0,0.0,0.0,5.0,2.0,1,8.0
+Qlik cdc,1.0,0.0,0.0,0.0,0.0,1,2.0
+Qliksense,0.0,0.0,0.0,6.0,0.0,1,7.0
+Query tibco tables gui,0.0,0.0,0.0,1.0,0.0,1,2.0
+R,0.0,0.0,0.0,0.0,4.0,1,5.0
+Redshift,0.0,5.0,0.0,0.0,0.0,1,6.0
+Redshift sql,0.0,0.0,1.0,0.0,0.0,1,2.0
+Reverse etl  census,2.0,0.0,0.0,0.0,0.0,1,3.0
+Sap business objects,0.0,0.0,0.0,1.0,0.0,1,2.0
+Sap data services,1.0,0.0,0.0,0.0,0.0,1,2.0
+Sisense,0.0,0.0,0.0,2.0,0.0,1,3.0
+Snowflake,0.0,90.0,7.0,0.0,9.0,1,107.0
+Snowflake adhoc queries,0.0,0.0,0.0,0.0,3.0,1,4.0
+Spark,6.0,0.0,8.0,0.0,0.0,1,15.0
+Sql,2.0,0.0,12.0,0.0,10.0,1,25.0
+Sql code git,0.0,0.0,1.0,0.0,0.0,1,2.0
+Sql server,0.0,0.0,0.0,0.0,1.0,1,2.0
+Sql server prem,0.0,40.0,0.0,0.0,0.0,1,41.0
+Sql stored procedures,0.0,0.0,33.0,0.0,0.0,1,34.0
+Sql usually airflow,0.0,0.0,1.0,0.0,0.0,1,2.0
+Sqoop,4.0,0.0,0.0,0.0,0.0,1,5.0
+Ssis,35.0,0.0,7.0,0.0,0.0,1,43.0
+Stitch,32.0,0.0,0.0,0.0,0.0,1,33.0
+Tableau,0.0,0.0,0.0,19.0,7.0,1,27.0
+Talend,2.0,0.0,2.0,0.0,0.0,1,5.0
+T sql,1.0,0.0,0.0,0.0,0.0,1,2.0
+Typhoon orchestrator,2.0,0.0,0.0,0.0,0.0,1,3.0
+Using webfocus nquire,0.0,0.0,0.0,1.0,0.0,1,2.0
+Versioned schemas nice,0.0,0.0,1.0,0.0,0.0,1,2.0
+We transform bigquery 95   elt approach,0.0,0.0,5.0,0.0,0.0,1,6.0
+Yuck,0.0,0.0,0.0,1.0,0.0,1,2.0
