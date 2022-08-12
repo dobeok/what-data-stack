@@ -22,20 +22,20 @@ _Visualizing input and output_
 
 
 ### Use
-To run the web app using **old data**
+To run the web app using **historical data**
 
 ```bash
 streamlit run app.py
 ```
 
-**To update data**, you will need to get an api key from reddit, save them in the .env file
+To **update data**, you will need to get an api key from reddit, save them in the `.env` file in the following format
 ```bash
 CLIENT_ID={your_client_id}
 SECRET={your_client_secret}
 USER_AGENT={your_user_agent}
 ```
 
-and then
+and then run
 ```bash
 python fetch_data.py
 python clean_data.py
